@@ -1,4 +1,4 @@
-# KursovaSem2
+# Stable Diffusion Colab Research Notebook
 
 FULL CLEAN
 <img width="763" height="590" alt="image" src="https://github.com/user-attachments/assets/f108e0cf-ce20-4f7c-bffd-16ed6986110c" />
